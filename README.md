@@ -1,4 +1,4 @@
-**Scripts for checking GCP permissions at the Org/Project/Bucket levels (Organization is required!!!)**
+**Scripts for checking GCP permissions at the Org/Project/Bucket levels (Note: Organization is required)**
 
 - Version 1 will print CSV to the screen to copy/paste into a file
     - Can be used with CloudShell where the user has only Read Permissions
